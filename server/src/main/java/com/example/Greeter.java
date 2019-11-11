@@ -1,3 +1,6 @@
+/**
+ * This package contains a greeter.
+ */
 package com.example;
 
 
