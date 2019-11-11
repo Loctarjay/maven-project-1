@@ -1,5 +1,5 @@
 /**
- * This package contains a greeter.
+ * @package greeter
  */
 package com.example;
 
